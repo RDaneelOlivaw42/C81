@@ -1,5 +1,6 @@
-# C78
+# C79
 
-Book Santa, Stage 2
+Book Santa, Stage 3
 
-Added Registration Form for Sign up and linked to firestore
+Added switch navigator and AppTabNavigator. 
+Added and designed BookRequestScreen.js and BookDonateScreen.js
